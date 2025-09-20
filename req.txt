@@ -3,3 +3,4 @@ opencv-python
 scikit-learn 
 pandas 
 numpy
+pip install mediapipe==0.10.0 protobuf==3.20.3
